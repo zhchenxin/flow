@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-07T09:22:08.555Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="B4fiTlK05YorhJfCz2-D" version="12.4.9" type="github">
+<mxfile host="www.draw.io" modified="2020-01-07T09:23:03.646Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="_dhydGtf0DD6jfrdTXuB" version="12.4.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1373" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -21,10 +21,10 @@
             <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="p2lohj0I56FqNKijgw4W-9" value="出库管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="p2lohj0I56FqNKijgw4W-19" vertex="1">
+        <mxCell id="p2lohj0I56FqNKijgw4W-9" value="入库管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="p2lohj0I56FqNKijgw4W-19" vertex="1">
           <mxGeometry x="67" y="70" width="90" height="35" as="geometry"/>
         </mxCell>
-        <mxCell id="p2lohj0I56FqNKijgw4W-10" value="入库管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="p2lohj0I56FqNKijgw4W-19" vertex="1">
+        <mxCell id="p2lohj0I56FqNKijgw4W-10" value="出库管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="p2lohj0I56FqNKijgw4W-19" vertex="1">
           <mxGeometry x="377" y="30" width="90" height="35" as="geometry"/>
         </mxCell>
         <mxCell id="p2lohj0I56FqNKijgw4W-11" value="库存管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="p2lohj0I56FqNKijgw4W-19" vertex="1">
