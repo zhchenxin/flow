@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-07T12:10:14.979Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="ahV4Lqg04xV4U-O2kIfU" version="12.4.9" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-01-07T12:11:04.089Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="1rraexlMT6W_5I5_q30h" version="12.4.9" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="main">
     <mxGraphModel dx="1373" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -100,6 +100,14 @@
       <root>
         <mxCell id="AeVPsp2suv4CSkwsUDi--0"/>
         <mxCell id="AeVPsp2suv4CSkwsUDi--1" parent="AeVPsp2suv4CSkwsUDi--0"/>
+        <mxCell id="XXgWKt4nKnaz3Ek82noA-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="AeVPsp2suv4CSkwsUDi--1" source="c_K6qTn9qbhVAkiae-gx-0" target="c_K6qTn9qbhVAkiae-gx-3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XXgWKt4nKnaz3Ek82noA-1" value="收货时创建" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="XXgWKt4nKnaz3Ek82noA-0">
+          <mxGeometry x="0.3273" y="-1" relative="1" as="geometry">
+            <mxPoint x="23" y="1" as="offset"/>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="c_K6qTn9qbhVAkiae-gx-0" value="库存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AeVPsp2suv4CSkwsUDi--1">
           <mxGeometry x="280" y="160" width="80" height="40" as="geometry"/>
         </mxCell>
@@ -108,9 +116,6 @@
         </mxCell>
         <mxCell id="c_K6qTn9qbhVAkiae-gx-1" value="盘点任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AeVPsp2suv4CSkwsUDi--1">
           <mxGeometry x="480" y="160" width="80" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="c_K6qTn9qbhVAkiae-gx-5" value="创建库存" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="AeVPsp2suv4CSkwsUDi--1" source="c_K6qTn9qbhVAkiae-gx-3" target="c_K6qTn9qbhVAkiae-gx-0">
-          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="c_K6qTn9qbhVAkiae-gx-3" value="入库" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="AeVPsp2suv4CSkwsUDi--1">
           <mxGeometry x="70" y="160" width="100" height="40" as="geometry"/>
