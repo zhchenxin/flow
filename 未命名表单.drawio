@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-07T09:09:48.222Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="zeqVFM6w1usSISTvVQi1" version="12.4.9" type="github">
+<mxfile host="www.draw.io" modified="2020-01-07T09:11:33.277Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="XYkuUQAWNqiQp6bfhPsz" version="12.4.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1133" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="p2lohj0I56FqNKijgw4W-19" value="" style="group" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
           <mxGeometry x="80" y="390" width="600" height="120" as="geometry"/>
         </mxCell>
-        <mxCell id="p2lohj0I56FqNKijgw4W-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="p2lohj0I56FqNKijgw4W-19" vertex="1">
+        <mxCell id="p2lohj0I56FqNKijgw4W-8" value="&lt;span style=&quot;white-space: normal&quot;&gt;核心功能&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="p2lohj0I56FqNKijgw4W-19" vertex="1">
           <mxGeometry width="600" height="120" as="geometry"/>
         </mxCell>
         <mxCell id="p2lohj0I56FqNKijgw4W-9" value="出库管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="p2lohj0I56FqNKijgw4W-19" vertex="1">
@@ -32,9 +32,9 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="wDsB2jIVfjci3oLpeVPu-2" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="560" width="600" height="80" as="geometry"/>
+          <mxGeometry x="80" y="570" width="600" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="p2lohj0I56FqNKijgw4W-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="wDsB2jIVfjci3oLpeVPu-2" vertex="1">
+        <mxCell id="p2lohj0I56FqNKijgw4W-1" value="基础模块" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="wDsB2jIVfjci3oLpeVPu-2" vertex="1">
           <mxGeometry width="600" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="p2lohj0I56FqNKijgw4W-2" value="产品管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="wDsB2jIVfjci3oLpeVPu-2" vertex="1">
@@ -49,10 +49,10 @@
         <mxCell id="p2lohj0I56FqNKijgw4W-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="wDsB2jIVfjci3oLpeVPu-2" source="p2lohj0I56FqNKijgw4W-1" target="p2lohj0I56FqNKijgw4W-1" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="wDsB2jIVfjci3oLpeVPu-3" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="wDsB2jIVfjci3oLpeVPu-3" value="" style="group;align=left;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="240" width="600" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="p2lohj0I56FqNKijgw4W-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="wDsB2jIVfjci3oLpeVPu-3" vertex="1">
+        <mxCell id="p2lohj0I56FqNKijgw4W-12" value="报表统计" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="wDsB2jIVfjci3oLpeVPu-3" vertex="1">
           <mxGeometry width="600" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="p2lohj0I56FqNKijgw4W-15" value="首页看板" style="rounded=0;whiteSpace=wrap;html=1;" parent="wDsB2jIVfjci3oLpeVPu-3" vertex="1">
