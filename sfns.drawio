@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-09T03:46:58.869Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="zia96PxXkK77GW--OLX2" version="12.4.9" type="github">
+<mxfile host="www.draw.io" modified="2020-01-09T04:51:40.113Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="mKDHN2ydaSDEsIF_MDlG" version="12.4.9" type="github">
   <diagram id="jOhKiwx7e5Yemb9SuLLx" name="第 1 页">
     <mxGraphModel dx="1373" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,10 @@
         <mxCell id="4Ny-9kU0FZ-ozSrMpoTr-1" value="kafka" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="383" y="310" width="60" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="4Ny-9kU0FZ-ozSrMpoTr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Ny-9kU0FZ-ozSrMpoTr-2" target="4Ny-9kU0FZ-ozSrMpoTr-1">
+        <mxCell id="4Ny-9kU0FZ-ozSrMpoTr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Ny-9kU0FZ-ozSrMpoTr-2" target="4Ny-9kU0FZ-ozSrMpoTr-1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="4Ny-9kU0FZ-ozSrMpoTr-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Ny-9kU0FZ-ozSrMpoTr-2" target="4Ny-9kU0FZ-ozSrMpoTr-14">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="4Ny-9kU0FZ-ozSrMpoTr-2" value="mq-proxy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -40,6 +43,12 @@
         </mxCell>
         <mxCell id="4Ny-9kU0FZ-ozSrMpoTr-5" value="customer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="90" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="4Ny-9kU0FZ-ozSrMpoTr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.7;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Ny-9kU0FZ-ozSrMpoTr-14" target="4Ny-9kU0FZ-ozSrMpoTr-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="4Ny-9kU0FZ-ozSrMpoTr-14" value="Redis" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="383" y="420" width="60" height="80" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
