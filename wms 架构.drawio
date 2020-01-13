@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-13T05:49:07.702Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="edLCAUx0CFLRX15cbv8V" version="12.5.1" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2020-01-13T05:51:29.645Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="MRYA-T09cqIimGgiNsBN" version="12.5.1" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="main">
     <mxGraphModel dx="1373" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -260,8 +260,10 @@
         <mxCell id="r475LIMoSVZU1Vdwge1M-13" value="提交复核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="r475LIMoSVZU1Vdwge1M-1">
           <mxGeometry x="240" y="480" width="90" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="r475LIMoSVZU1Vdwge1M-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="r475LIMoSVZU1Vdwge1M-1" source="r475LIMoSVZU1Vdwge1M-15" target="r475LIMoSVZU1Vdwge1M-17">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="r475LIMoSVZU1Vdwge1M-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="r475LIMoSVZU1Vdwge1M-1" source="r475LIMoSVZU1Vdwge1M-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="285" y="680" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
         <mxCell id="r475LIMoSVZU1Vdwge1M-23" value="已出库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="r475LIMoSVZU1Vdwge1M-21">
           <mxGeometry y="-1" relative="1" as="geometry">
@@ -270,9 +272,6 @@
         </mxCell>
         <mxCell id="r475LIMoSVZU1Vdwge1M-15" value="出库提交" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="r475LIMoSVZU1Vdwge1M-1">
           <mxGeometry x="240" y="580" width="90" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="r475LIMoSVZU1Vdwge1M-17" value="完成出库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="r475LIMoSVZU1Vdwge1M-1">
-          <mxGeometry x="240" y="680" width="90" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
