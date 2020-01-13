@@ -1,1 +1,101 @@
-<mxfile host="www.draw.io" modified="2020-01-13T06:16:24.717Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" version="12.5.1" etag="ENOMxivK6tiKZD55WLg2" type="github"><diagram id="4CY0Z-3kC5zHqu2Utp69">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-01-13T06:23:45.414Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="iXtqSvWZfIZrDMShOz-G" version="12.5.1" type="github">
+  <diagram id="4CY0Z-3kC5zHqu2Utp69" name="第 1 页">
+    <mxGraphModel dx="1373" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="Qz2TnbW-IGk7qjdrBz__-1" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;labelBackgroundColor=#ffffff;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="100" width="20" height="300" as="geometry"/>
+        </mxCell>
+        <mxCell id="Qz2TnbW-IGk7qjdrBz__-7" value="USS、stoken、平台标识" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qz2TnbW-IGk7qjdrBz__-3" target="Qz2TnbW-IGk7qjdrBz__-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="180"/>
+              <mxPoint x="410" y="180"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qz2TnbW-IGk7qjdrBz__-9" value="302 跳转到登录页" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qz2TnbW-IGk7qjdrBz__-3" target="Qz2TnbW-IGk7qjdrBz__-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="210"/>
+              <mxPoint x="200" y="210"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qz2TnbW-IGk7qjdrBz__-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qz2TnbW-IGk7qjdrBz__-3" target="Qz2TnbW-IGk7qjdrBz__-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="370"/>
+              <mxPoint x="200" y="370"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qz2TnbW-IGk7qjdrBz__-19" value="将 stoken 保存到 cookie 中" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="Qz2TnbW-IGk7qjdrBz__-18">
+          <mxGeometry x="0.0474" y="-14" relative="1" as="geometry">
+            <mxPoint x="15" y="14" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qz2TnbW-IGk7qjdrBz__-3" value="" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;labelBackgroundColor=#ffffff;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="100" width="40" height="300" as="geometry"/>
+        </mxCell>
+        <mxCell id="Qz2TnbW-IGk7qjdrBz__-8" value="未登录" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qz2TnbW-IGk7qjdrBz__-4" target="Qz2TnbW-IGk7qjdrBz__-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="200"/>
+              <mxPoint x="420" y="200"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qz2TnbW-IGk7qjdrBz__-13" value="302 到服务接口，携带 stoken 参数" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qz2TnbW-IGk7qjdrBz__-4" target="Qz2TnbW-IGk7qjdrBz__-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="290"/>
+              <mxPoint x="350" y="290"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qz2TnbW-IGk7qjdrBz__-4" value="" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;labelBackgroundColor=#ffffff;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="100" width="40" height="300" as="geometry"/>
+        </mxCell>
+        <mxCell id="Qz2TnbW-IGk7qjdrBz__-6" value="cookie" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qz2TnbW-IGk7qjdrBz__-5" target="Qz2TnbW-IGk7qjdrBz__-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="170"/>
+              <mxPoint x="200" y="170"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qz2TnbW-IGk7qjdrBz__-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qz2TnbW-IGk7qjdrBz__-5" target="Qz2TnbW-IGk7qjdrBz__-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="260"/>
+              <mxPoint x="340" y="260"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qz2TnbW-IGk7qjdrBz__-11" value="账号信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="Qz2TnbW-IGk7qjdrBz__-10">
+          <mxGeometry x="0.1244" y="-71" relative="1" as="geometry">
+            <mxPoint x="-71" y="-70" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qz2TnbW-IGk7qjdrBz__-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qz2TnbW-IGk7qjdrBz__-5" target="Qz2TnbW-IGk7qjdrBz__-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="350"/>
+              <mxPoint x="210" y="350"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qz2TnbW-IGk7qjdrBz__-15" value="stoken 参数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="Qz2TnbW-IGk7qjdrBz__-14">
+          <mxGeometry x="0.0895" y="1" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qz2TnbW-IGk7qjdrBz__-5" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;labelBackgroundColor=#ffffff;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="100" width="20" height="300" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
