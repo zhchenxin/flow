@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-20T08:18:52.080Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="BR0qSEmuJuj5dNilRAOJ" version="12.5.5" type="github" pages="5">
+<mxfile host="www.draw.io" modified="2020-01-20T08:19:29.558Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="HjSJ9yza_e1h5RBbKlpP" version="12.5.5" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="main">
     <mxGraphModel dx="1373" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="wDsB2jIVfjci3oLpeVPu-2" value="" style="group" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
           <mxGeometry x="113" y="410" width="600" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="p2lohj0I56FqNKijgw4W-1" value="基础模块" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="wDsB2jIVfjci3oLpeVPu-2" vertex="1">
+        <mxCell id="p2lohj0I56FqNKijgw4W-1" value="WMS 基础数据" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="wDsB2jIVfjci3oLpeVPu-2" vertex="1">
           <mxGeometry width="600" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="p2lohj0I56FqNKijgw4W-2" value="产品" style="rounded=0;whiteSpace=wrap;html=1;" parent="wDsB2jIVfjci3oLpeVPu-2" vertex="1">
@@ -58,7 +58,7 @@
         <mxCell id="IpZOTP64NA2XFBKvStlP-7" value="" style="group" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
           <mxGeometry x="113" y="544" width="600" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="IpZOTP64NA2XFBKvStlP-8" value="OMS 模块" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="IpZOTP64NA2XFBKvStlP-7" vertex="1">
+        <mxCell id="IpZOTP64NA2XFBKvStlP-8" value="公共数据" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="IpZOTP64NA2XFBKvStlP-7" vertex="1">
           <mxGeometry width="600" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="IpZOTP64NA2XFBKvStlP-9" value="产品" style="rounded=0;whiteSpace=wrap;html=1;" parent="IpZOTP64NA2XFBKvStlP-7" vertex="1">
